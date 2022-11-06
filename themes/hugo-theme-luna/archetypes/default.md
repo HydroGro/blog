@@ -4,10 +4,10 @@ date: {{ .Date }}
 draft: true
 # summary: "Some summaries..."
 # type: "post" or "status"
-# author: Author
+author: HydroGro
 # featured_image: cover.jpg
 # slug: aaa-bbb-ccc
-# toc: true
+toc: true
 # categories:
 #   - CategoryA
 #   - CategoryB
