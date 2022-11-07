@@ -4,10 +4,8 @@ weight: 3
 header_menu: true
 ---
 
-![HydroGro Logo](images/logo-512x512.png)
+![HydroGro Logo](images/logo-192x192.png)
 
-##### Professionel Experience
+##### Background
 
-A lot, but let us get into the details with some lorem ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent feugiat lectus et magna placerat tincidunt. Nullam sit amet lectus vitae elit mollis rhoncus non eget lorem. Ut tempor sed dui quis volutpat.
-
-In ultrices, est at lobortis pretium, magna quam mollis neque, id viverra odio est sit amet lorem. Mauris efficitur nunc vel lectus porttitor, sit amet sodales quam eleifend. Duis et felis ut mauris dignissim efficitur. Aliquam non sem eros. Integer elit ante, bibendum id hendrerit vitae, vestibulum eget risus. Nunc efficitur nisl in iaculis vestibulum.
+HydroGro Labs - or HydroGro - is a convenient solution for those looking to get into, or are professionals in the exciting world of Hydroponics. Our aim is to bring together a community of like-minded individuals who share a passion in creating a lifestyle of fresh ingredients, fresh produce, and less waste. All in a simple bundle which can be modified to your heart's desire.
