@@ -3,35 +3,23 @@ title: "Services"
 weight: 2
 header_menu: true
 ---
-
-Services that We Offer
+This is a snapshot of what we can offer
 
 ---
-
 ## System Implementation & Design
 
-This is not an easy task. You will likely have to pay money for this. You know what - let us look at a nice picture first.
-
-![Nice picture to make you pay me ;-)](images/selective-focus-photography-of-pasta-with-tomato-and-basil-1279330.jpg)
-
-Wow. That was nice, right? Well, call me and let us talk.
+We design systems based on your request and specifications, and will optimise it to make sure that what you're getting will last for a long time. Any issues that you face is ours too and we would love to help you in any problems that you face; whether it's with the installation, or the continuous journey ahead.
 
 ---
+Programming & Automating Setups
 
-## Programming & Automating Setups
-
-Did you see the picture above? I can show you how to go from
-
-![Let us get started on a clean slate](images/board-bunch-cooking-food-349609.jpg)
-
-to
-
-![Let us get started on a clean slate](images/woman-pouring-juice-on-glass-3184192.jpg)
-
-in estimated seconds.
+Our public github is available at (this link)[https://github.com/HydroGro]
+All of the code we post will be opensource, meaning that you can set this up yourself or modify it to suit your needs.
 
 ---
 
 Want to learn more about my services?
 
-Check out [this page](services) I created. It carries a lot more details...
+Check out [this page](services) to see more of what we offer!
+
+
