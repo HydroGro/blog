@@ -3,8 +3,11 @@ title: "Services"
 weight: 2
 header_menu: true
 ---
-This is a snapshot of what we can offer
-
+- System Implimentation
+- Designing and testing your ideal unit
+- Setting up local servers and automation
+- Blogs with tips and tutorials on how to take care of and maintain your system
+- Free, open source platform for collaboration in automating and perfecting your Gro system
 ---
 ## System Implementation & Design
 
